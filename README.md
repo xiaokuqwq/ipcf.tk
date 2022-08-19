@@ -5,6 +5,10 @@
 # 用法
 使用您的二级域名cname到本域名既可
 
+# 感谢
+
+感谢此仓库提供中转IP```https://github.com/ip-scanner/cloudflare```
+
 使用官方ip:```origin.ipcf.tk```
 
 使用中转ip:```transfer.ipcf.tk```
