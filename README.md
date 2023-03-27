@@ -16,4 +16,4 @@ shij
 感谢此仓库提供中转IP
 ```https://github.com/ip-scanner/cloudflare```
 
-捐赠USDT:```TWbQd675oGMbqc6hriQZfNaPdYzBLqyFPG```
+捐赠USDT:```已停更```
